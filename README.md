@@ -2,8 +2,8 @@
 Pipeline for models
 
 <script src="https://utteranc.es/client.js"
-         repo="jhqian0909.github.io/Pipeline"
-         issue-term="pathname"
+         repo="jhqian0909/Pipeline"
+         issue-term="url"
          theme="github-light"
          crossorigin="anonymous"
          async>
